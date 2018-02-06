@@ -1,3 +1,4 @@
+
 .heading{
     color: chartreuse;
 }
@@ -7,4 +8,11 @@
 .items{
     padding: 10px;
     background-color: cornflowerblue;
+
+nav ul{
+    color: black;
+    background-color: bisque;
+    padding: 30px;
+    font-family: "Times new roman";
+    font-size: 18px;
 }
