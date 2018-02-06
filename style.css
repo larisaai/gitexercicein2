@@ -1,0 +1,10 @@
+.heading{
+    color: chartreuse;
+}
+.items-container{
+    display: inline-block;
+}
+.items{
+    padding: 10px;
+    background-color: cornflowerblue;
+}
